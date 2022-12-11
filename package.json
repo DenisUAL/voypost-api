@@ -16,7 +16,7 @@
     "dotenv": "8.0.0",
     "dotenv-safe": "6.1.0",
     "esm": "3.2.25",
-    "express": "4.17.1",
+    "express": "4.17.3",
     "helmet": "3.20.0",
     "moment": "2.24.0",
     "morgan": "1.9.1",
